@@ -1,4 +1,4 @@
-## <EC-3882-G02>
+## EC-3882-G02
 Este repositorio es una plantilla para ser usada en la materia ECXXXX. Modifique el contenido de esta plantilla para adaptarlo a su proyecto manteniendo la estructura de carpetas que se explica en [Estructura del repositorio](#Estructura-del-repositorio).
 
 ## Integrantes del equipo
